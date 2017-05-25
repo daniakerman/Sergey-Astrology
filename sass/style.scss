@@ -1,0 +1,25 @@
+/* Carousel and pictures */
+
+.view:not(.hm-zoom) {
+    overflow:visible;
+}
+
+/* Margin from the top */
+.container {
+    .row {
+        margin-top: 2.5rem;
+    }
+}
+
+.hm-black-strong .full-bg-img, .hm-black-strong .mask {
+  background-color: transparent;
+}
+
+.navbar {
+  box-shadow: none;
+  h1 {
+    color: #ffffff;
+  }
+}
+
+@import "template_styles";
