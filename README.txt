@@ -1,25 +1,6 @@
-Material Design for Bootstrap
+# Sergey Mishurin personal page
 
-Version: MDB Free 4.2.0
+Demo: https://daniakerman.github.io/freecodecamp-page/
 
-Documentation:
-http://mdbootstrap.com/
+Based on Material Design for Bootstrap
 
-Getting started:
-http://mdbootstrap.com/getting-started/
-
-Tutorials:
-MDB-Bootstrap: http://mdbootstrap.com/bootstrap-tutorial/
-MDB-Wordpress: http://mdbootstrap.com/wordpress-tutorial/
-
-Templates:
-http://mdbootstrap.com/templates/
-
-License:
-http://mdbootstrap.com/license/
-
-Support:
-http://mdbootstrap.com/forums/forum/support/
-
-Contact:
-office@mdbootstrap.com
